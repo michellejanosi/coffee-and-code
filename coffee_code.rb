@@ -1,13 +1,13 @@
 # Coffee and code with emojis
 
-:person_frowning: == :sleeping:
-until :person_frowning: == :ok_woman:
-  return :coffee:
-  :person_frowning: += :smile:
+🙎 == 😴
+until 🙎 == 🙆
+  return ☕️
+  🙎 += 🙂
 end
-puts :person_frowning:
+puts 🙎
 
-output =>
-:person_frowning:: :sleeping:
-:person_frowning:: :neutral_face:
-:person_frowning:: :ok_woman:
+# Output =>
+# 🙎: 😴
+# 🙎: 😐
+# 🙎: 🙆
