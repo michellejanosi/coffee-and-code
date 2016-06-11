@@ -1,3 +1,3 @@
-Coffee and Code
+## Coffee and Code
 
-An interpretation of ‘coffee and code’ with emojis.
+An interpretation of ‘coffee and code’ (☕️ & { }) with emojis.
